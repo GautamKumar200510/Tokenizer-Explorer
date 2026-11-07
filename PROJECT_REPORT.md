@@ -11,7 +11,7 @@
 
 Subword tokenization is the foundational entry point of all modern transformer-based Large Language Models (LLMs). While models exhibit remarkable reasoning capabilities, the underlying tokenizers—such as Byte-Pair Encoding (BPE), WordPiece, and SentencePiece—were predominantly trained on English and high-resource European web text. Consequently, Indian languages written in non-Latin scripts (such as Devanagari for Hindi and Marathi) suffer severe **token inflation**, often requiring **3.5x to 4.5x more tokens** to represent the exact same semantic content as English.
 
-This project, **P20 – Tokenizer Explorer for Indian Languages**, provides an interactive educational and research analytics dashboard that quantifies, visualizes, and analyzes this phenomenon. The application is built using a modern full-stack architecture comprising a **React 19, TypeScript, and Tailwind CSS v4** frontend and a **Python FastAPI** backend powered by authentic Hugging Face Transformers (`gpt2`, `bert-base-multilingual-cased`, `xlm-roberta-base`), OpenAI Tiktoken (`cl100k_base`, `o200k_base`), OpenAI Whisper speech-to-text, and Google Gemini generative AI.
+This project, **Tokenizer Explorer for Indian Languages**, provides an interactive educational and research analytics dashboard that quantifies, visualizes, and analyzes this phenomenon. The application is built using a modern full-stack architecture comprising a **React 19, TypeScript, and Tailwind CSS v4** frontend and a **Python FastAPI** backend powered by authentic Hugging Face Transformers (`gpt2`, `bert-base-multilingual-cased`, `xlm-roberta-base`), OpenAI Tiktoken (`cl100k_base`, `o200k_base`), OpenAI Whisper speech-to-text, and Google Gemini generative AI.
 
 ---
 
