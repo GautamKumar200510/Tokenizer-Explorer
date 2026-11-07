@@ -72,7 +72,7 @@ export function App() {
         {/* Global Footer */}
         <footer className="border-t border-slate-200 bg-white px-6 py-4 text-center text-xs text-slate-500">
           <p>
-            P20 – Tokenizer Explorer for Indian Languages • Generative AI CA Mini Project • English • Hindi • Marathi
+            Tokenizer Explorer for Indian Languages • Generative AI CA Mini Project • English • Hindi • Marathi
           </p>
         </footer>
       </div>

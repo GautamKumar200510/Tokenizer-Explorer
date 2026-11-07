@@ -12,7 +12,7 @@ if not env_path.exists():
 load_dotenv(dotenv_path=env_path)
 
 class Settings:
-    PROJECT_NAME: str = "P20 – Tokenizer Explorer for Indian Languages"
+    PROJECT_NAME: str = "Tokenizer Explorer for Indian Languages"
     VERSION: str = "1.0.0"
     ENVIRONMENT: str = os.getenv("ENVIRONMENT", "development")
     

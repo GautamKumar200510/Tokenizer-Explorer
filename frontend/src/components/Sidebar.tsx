@@ -115,7 +115,7 @@ export const Sidebar: React.FC<SidebarProps> = ({
             </div>
             <div>
               <span className="text-xs font-bold tracking-tight text-white block uppercase">
-                P20 Explorer
+                Tokenizer Explorer
               </span>
               <span className="text-[10px] text-indigo-400 font-mono tracking-tight block">
                 Indian Languages NLP

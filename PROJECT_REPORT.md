@@ -1,7 +1,7 @@
-# University Project Report: P20 – Tokenizer Explorer for Indian Languages
+# University Project Report: Tokenizer Explorer for Indian Languages
 
 **Course**: Generative AI & Natural Language Processing (CA Mini Project)  
-**Project Title**: P20 – Tokenizer Explorer for Indian Languages (English, Hindi, Marathi)  
+**Project Title**: Tokenizer Explorer for Indian Languages (English, Hindi, Marathi)  
 **Date**: November 2026  
 **Status**: 100% Fully Implemented, Tested, and Verified  
 

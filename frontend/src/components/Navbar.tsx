@@ -35,7 +35,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onToggleSidebar, activeTabTitle 
             {activeTabTitle}
           </h1>
           <p className="text-[11px] text-slate-500 hidden sm:block">
-            P20 • Tokenizer Explorer for Indian Languages (English, Hindi, Marathi)
+            Tokenizer Explorer for Indian Languages (English, Hindi, Marathi)
           </p>
         </div>
       </div>

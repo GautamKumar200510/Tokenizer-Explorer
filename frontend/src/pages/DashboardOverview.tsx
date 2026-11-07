@@ -59,7 +59,7 @@ export const DashboardOverview: React.FC<DashboardOverviewProps> = ({ onNavigate
           </div>
 
           <h2 className="text-2xl md:text-3xl font-extrabold tracking-tight text-white leading-tight">
-            P20 – Tokenizer Explorer for Indian Languages
+            Tokenizer Explorer for Indian Languages
           </h2>
 
           <p className="text-slate-300 text-sm md:text-base leading-relaxed">

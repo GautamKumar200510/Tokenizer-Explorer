@@ -19,10 +19,10 @@ export const AboutProject: React.FC = () => {
           <span className="text-xs font-mono font-bold text-indigo-700 bg-indigo-50 border border-indigo-200 px-2.5 py-0.5 rounded-md">
             PROJECT OVERVIEW
           </span>
-          <span className="text-xs font-mono text-slate-500">P20 Academic Mini Project</span>
+          <span className="text-xs font-mono text-slate-500">Academic Mini Project</span>
         </div>
         <h2 className="text-2xl font-bold text-slate-900 mt-1">
-          P20 – Tokenizer Explorer for Indian Languages
+          Tokenizer Explorer for Indian Languages
         </h2>
         <p className="text-sm text-slate-600 mt-1 max-w-3xl leading-relaxed">
           An interactive, high-precision educational web application built to analyze and demonstrate how

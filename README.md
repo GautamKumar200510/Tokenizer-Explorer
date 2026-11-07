@@ -1,4 +1,4 @@
-# P20 – Tokenizer Explorer for Indian Languages
+# Tokenizer Explorer for Indian Languages
 
 An interactive educational NLP and Generative AI analytics dashboard that compares how **English**, **Hindi**, and **Marathi** text are segmented across modern subword tokenizers (Byte-Pair Encoding, WordPiece, and SentencePiece). The platform measures real token counts, calculates unigram token probabilities with Laplace smoothing, analyzes estimated API cost disparities, and evaluates context-window shrinkage—unveiling the quantitative reality of the **"Indic Token Tax"**.
 

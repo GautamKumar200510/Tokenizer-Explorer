@@ -18,7 +18,7 @@ async def lifespan(app: FastAPI):
     # Startup: Initialize SQLite tables and sample files
     init_db()
     print("=" * 70)
-    print(" [P20 Tokenizer Explorer for Indian Languages] Backend Initialized")
+    print(" [Tokenizer Explorer for Indian Languages] Backend Initialized")
     print(f" Environment: {settings.ENVIRONMENT}")
     print(f" Database: {settings.DATABASE_PATH}")
     print(f" Gemini API: {'Configured' if settings.has_gemini_key else 'Optional (Offline Fallback Active)'}")
