@@ -6,7 +6,23 @@ An interactive educational NLP and Generative AI analytics dashboard that compar
 
 ## 🌟 Key Highlights & Academic Objectives
 
+One of my major projects is Tokenizer Explorer, an interactive web application based on Natural Language Processing.
 
+The main purpose of this project is to help users understand how different language models process and tokenize text.
+
+I integrated real tokenizers from Hugging Face Transformers and OpenAI Tiktoken to generate authentic token counts and compare different tokenization methods.
+
+Apart from tokenization, I implemented a Laplace-Smoothed Unigram Language Model that calculates word probabilities, surprisal, log-likelihood, and sentence perplexity.
+
+The application also includes multilingual speech processing using the Whisper API, interactive visualizations using Recharts, and token-based cost analysis.
+
+Another interesting feature is Language Fairness Analysis, where I compare tokenization efficiency across English, Hindi, and Marathi.
+
+I also integrated Google Gemini API for AI-powered linguistic explanations, along with offline fallback functionality.
+
+Through this project, I gained practical experience in NLP, API integration, backend development, data visualization, mathematical language modelling, and deployment.
+
+Overall, this project helped me understand how theoretical NLP concepts can be implemented in a practical web application.
 
 ---
 
