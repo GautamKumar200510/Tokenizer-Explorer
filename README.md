@@ -6,13 +6,7 @@ An interactive educational NLP and Generative AI analytics dashboard that compar
 
 ## 🌟 Key Highlights & Academic Objectives
 
-- **100% Authentic Tokenization**: Powered by Hugging Face Transformers (`gpt2`, `bert-base-multilingual-cased`, `xlm-roberta-base`) and OpenAI Tiktoken (`cl100k_base`, `o200k_base`). **Zero fabricated or mock token counts.**
-- **Laplace-Smoothed Unigram Language Model**: Add-1 smoothing with exact step-by-step mathematical breakdowns, surprisal in bits ($-\log_2 P$), sequence log-likelihood, and sentence perplexity.
-- **Multilingual Speech & Audio**: Browser microphone voice recording, audio file upload, and OpenAI Whisper API speech-to-text transcription for Hindi speech.
-- **Interactive Recharts Visualizations**: Dynamic token count and cost bar charts responding to user-defined model pricing ($ per 1M tokens) and request volume.
-- **Language Fairness & Token Tax Analysis**: Quantifying effective context window loss (up to 70% shrinkage for Hindi and Marathi) and inference latency overhead.
-- **Google Gemini API Integration**: Live generative AI linguistic explanations and policy reports with deterministic offline fallbacks when API keys are not present.
-- **Zero-Crash Resilience**: Runs 100% locally and offline for all five units even without external API keys.
+
 
 ---
 
